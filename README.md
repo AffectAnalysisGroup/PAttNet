@@ -4,6 +4,10 @@ Facial action units (AUs) refer to specific facial locations. Recent efforts in 
 
 ![BMVC_pipeline](https://user-images.githubusercontent.com/12033328/64030088-e0551400-cb13-11e9-8a31-c5ca19bebe3c.png)
 
+This repository contains PyTorch implementation of the PAttNet presented in our BMVC 2019 paper:
+
+Itir Onal Ertugrul, Laszlo A. Jeni, and Jeffrey F. Cohn. PAttNet: Patch-attentive deep network for action unit detectionIn BMVC, 2019. 
+
 ## Citation
 
 If you use any of the resources provided on this page, please cite the following paper:
